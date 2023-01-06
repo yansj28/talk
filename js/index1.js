@@ -29,7 +29,7 @@
     //设置退出事件
     doms.close.onclick = function(){
         API.loginOut();
-        location.href = './login.html';
+        location.href = '//login.html';
     } 
 
     //添加消息
